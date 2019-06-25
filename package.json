@@ -1,0 +1,11 @@
+{
+  "name": "native-support-esm",
+  "version": "1.0.0",
+  "description": "Test to using native esm in nodejs",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "author": "nalon",
+  "license": "ISC"
+}
